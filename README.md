@@ -5,11 +5,11 @@
 ## Tính năng
 
 - **555 câu hỏi** từ 7 chủ đề: VCS Lý thuyết chung, Frequentis 3020X, VHF Lý thuyết chung, R&S S5200, R&S, Icom IC-A200, Jotron TA7650
-- **Xáo trộn thông minh**: thứ tự câu hỏi và đáp án được xáo ngẫu nhiên mỗi lần thi, đảm bảo không bài thi nào giống nhau. Các câu có đáp án tham chiếu chéo (ví dụ: "Cả 1 và 2", "Tất cả đều đúng") được giữ nguyên thứ tự
+- **Xáo trộn thứ tự câu hỏi** mỗi lần thi — không bài thi nào giống nhau, đáp án giữ nguyên vị trí gốc
 - **Đồng hồ đếm ngược** với thời gian tùy chỉnh (30s / 45s / 60s / 90s mỗi câu)
 - **Tổng kết chi tiết** sau bài thi: điểm số, xếp loại, đáp án đúng/sai, giải thích cho từng câu
 - **Chạy offline hoàn toàn** — một file HTML duy nhất, không cần server hay internet
-- **Responsive** — hoạt động tốt trên cả máy tính, máy tính bảng và điện thoại
+- **Responsive** — hoạt động tốt trên máy tính, máy tính bảng và điện thoại
 
 ## Sử dụng
 
